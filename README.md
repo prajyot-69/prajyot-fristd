@@ -1,3 +1,3 @@
-# prajyot - firat gepo 
+# prajyot - firat dem
 My first Git Repository
 
